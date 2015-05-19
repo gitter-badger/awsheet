@@ -1,5 +1,7 @@
 ## AWSHeet
 
+[![Join the chat at https://gitter.im/huffingtonpost/awsheet](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/huffingtonpost/awsheet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 AWSHeet is a lightweight python library that helps you provision all
 your AWS resources.
 
